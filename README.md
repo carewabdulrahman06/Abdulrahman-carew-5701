@@ -5,9 +5,9 @@ Web design Assignment 1 Sketchs and Wireframe For Football Agency Sierra Leone
 
 # Home page Sketches and Wireframes
 
-<img width="1376" height="1427" alt="image" src="https://github.com/user-attachments/assets/d59496cc-613b-466e-bdb5-![IMG-20251215-WA0012](https://github.com/user-attachments/assets/b092cb46-2f04-45c0-8e0b-3eada1c7f7bf)
+<img width="1376" height="1427" alt="image" src="https://github.com/user-attachments/assets/d59496cc-613b-466e-bdb5-
 <img width="810" height="1080" alt="image" src="https://github.com/user-attachments/assets/b24a0cc4-fa1b-480e-8de9-aa6165a06d18" />
-
+![IMG-20251215-WA0012](https://github.com/user-attachments/assets/b092cb46-2f04-45c0-8e0b-3eada1c7f7bf)
 
 
 
@@ -21,6 +21,7 @@ Web design Assignment 1 Sketchs and Wireframe For Football Agency Sierra Leone
 
 # Matches Page Sketches and Wireframes
 <img width="810" height="1080" alt="image" src="https://github.com/user-attachments/assets/149ed3c3-ce06-4802-b160-4db609d3a045" />
+<img width="810" height="1080" alt="image" src="https://github.com/user-attachments/assets/0eeac2bd-751d-403d-8e34-a05eb2b4e5a7" />
 
 
 
