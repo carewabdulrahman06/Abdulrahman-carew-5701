@@ -15,7 +15,8 @@ Web design Assignment 1 Sketchs and Wireframe For Football Agency Sierra Leone
 
 # Players Page Sketches and Wireframes
 <img width="1368" height="1373" alt="Screenshot 2025-12-14 101844" src="https://github.com/user-attachments/assets/74028069-ab07-402e-ac4f-962c2c0afdd6" />
-![WhatsApp Image 2025-12-14 at 6 38 39 PM](https://github.com/user-attachments/assets/575bf6b7-43ef-49e7-8382-0f52fd93ab19)
+<img width="810" height="1080" alt="image" src="https://github.com/user-attachments/assets/11e8fa0d-2882-4410-adad-26520e684a88" />
+(https://github.com/user-attachments/assets/575bf6b7-43ef-49e7-8382-0f52fd93ab19)
 
 # Matches Page Sketches and Wireframes
 <img width="810" height="1080" alt="image" src="https://github.com/user-attachments/assets/149ed3c3-ce06-4802-b160-4db609d3a045" />
