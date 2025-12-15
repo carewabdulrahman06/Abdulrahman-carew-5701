@@ -6,7 +6,8 @@ Web design Assignment 1 Sketchs and Wireframe For Football Agency Sierra Leone
 # Home page Sketches and Wireframes
 
 <img width="1376" height="1427" alt="image" src="https://github.com/user-attachments/assets/d59496cc-613b-466e-bdb5-![IMG-20251215-WA0012](https://github.com/user-attachments/assets/b092cb46-2f04-45c0-8e0b-3eada1c7f7bf)
-![IMG_20251215_233628_765](https://github.com/user-attachments/assets/a5d880e2-fb41-4931-a4d5-dd9daed9a7de)
+<img width="810" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e4911bd-c2f3-4a92-9c15-f01ac6aa0a36" />
+
 
 
 
@@ -14,9 +15,12 @@ Web design Assignment 1 Sketchs and Wireframe For Football Agency Sierra Leone
 
 # Players Page Sketches and Wireframes
 <img width="1368" height="1373" alt="Screenshot 2025-12-14 101844" src="https://github.com/user-attachments/assets/74028069-ab07-402e-ac4f-962c2c0afdd6" />
+![WhatsApp Image 2025-12-14 at 6 38 39 PM](https://github.com/user-attachments/assets/575bf6b7-43ef-49e7-8382-0f52fd93ab19)
 
 # Matches Page Sketches and Wireframes
-![IMG_20251215_233616_357](https://github.com/user-attachments/assets/36e24858-1231-4e04-aa9e-c0548fb0d0d1)
+<img width="810" height="1080" alt="image" src="https://github.com/user-attachments/assets/149ed3c3-ce06-4802-b160-4db609d3a045" />
+<img width="810" height="1080" alt="image" src="https://github.com/user-attachments/assets/caf55ce2-b387-45af-bf06-eb2a06764247" />
+
 
 
 
@@ -24,8 +28,9 @@ Web design Assignment 1 Sketchs and Wireframe For Football Agency Sierra Leone
 # About Page Sketches and Wireframes
 
 <img width="1491" height="1357" alt="Screenshot 2025-12-14 101925" src="https://github.com/user-attachments/assets/62c505b8-d51c-492e-b11d-a6eabf0787b4" />
+<img width="810" height="1080" alt="image" src="https://github.com/user-attachments/assets/ff4924a7-1e73-46b0-b285-b4462e7f1aea" />
 
-![Uploading IMG_20251215_233606_139.jpg…]()
+
 
 
 
